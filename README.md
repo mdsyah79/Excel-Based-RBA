@@ -1,6 +1,8 @@
 # Excel-Based-RBA 
 RBA (Responsible Business Alliance) Work-Hour Rules baked into Excel powered by Macro VBA
 
+Watch it in action : https://youtu.be/NcK6vXwcDys and https://youtu.be/7Xine6qUM6E
+
 ![image](https://user-images.githubusercontent.com/18409384/233274133-2a336362-886c-479d-abfe-ed1e43aaa547.png)
 
 ![image](https://user-images.githubusercontent.com/18409384/233273554-a451ae8b-9575-4eb8-9387-e54372361ada.png)
