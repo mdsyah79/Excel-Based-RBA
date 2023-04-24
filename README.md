@@ -21,3 +21,9 @@ RBA Work-Hour Rules observed in this Excel OT Planning File (as per Seagate Wood
 * 60 hours maximum Work Hour per WW
 * Maximum of 72 hours of 1.5hr (Weekday) Overtime (OT) per WW
 * Continuous work between 2 WWs are also prohibited
+
+If you want to use this, download the Excel WB named : W3 April 2023 OT.xlsm
+
+or...
+
+read up Modules.md
